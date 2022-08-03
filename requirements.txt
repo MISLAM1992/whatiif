@@ -1,0 +1,4 @@
+Flask==2.2.0
+requests==2.26.0
+diction==1.0.3
+telegram==0.0.1
